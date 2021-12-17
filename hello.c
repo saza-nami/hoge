@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 	if (i == sizeof(table) / sizeof(table[0]))
 		i = 0;
 
-	printf("%s", table[i].value);
+	printf("%s\n", table[i].value);
 
 	return 0;
 }
