@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 		{ "bar", "SAZANAMI BIGWAVE!\n" },
 		{ "bo", "Bobobo-bo Bo-bobo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n" },
 		{ "kasu", "you-kun\n" },
-		{ "ababa", "ababababa\n" },
+		{ "ababababababababababbabababababababababababaaa", "ababababa\n" },
 	};
 
 	if (argc < 2) {
